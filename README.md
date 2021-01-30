@@ -4,7 +4,7 @@
 
 [![nhj7's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhj7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css,html&langs_count=8)](https://github.com/nhj7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhj7&hide=css,html&langs_count=8)](https://github.com/nhj7)
 
 <!--
 **nhj7/nhj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
