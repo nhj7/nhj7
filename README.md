@@ -1,4 +1,7 @@
-### Hi there 👋
+### 금융IT전문가 💰
+
+블로그 : https://nhj12311.tistory.com/category/dev
+
 
 <!--
 **nhj7/nhj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
