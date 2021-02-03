@@ -1,10 +1,24 @@
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=nhj7&style=flat-square" align="right" />
+</div>  
+
+
 ### 금융 IT 개발자 💰
 
 블로그 : https://nhj12311.tistory.com/category/dev
 
-[![nhj7's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhj7&show_icons=true)](https://github.com/nhj7)
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhj7&hide=css,html&langs_count=8)](https://github.com/nhj7)
+<img src="https://github-readme-stats.vercel.app/api?username=nhj7&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhj7&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>
 
 [![HitCount](http://hits.dwyl.com/nhj7/nhj7.svg)](http://hits.dwyl.com/nhj7/nhj7)
 
