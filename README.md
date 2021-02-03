@@ -20,7 +20,7 @@
 
 <br/>
 
-[![HitCount](http://hits.dwyl.com/nhj7/nhj7.svg)](http://hits.dwyl.com/nhj7/nhj7)
+<!-- [![HitCount](http://hits.dwyl.com/nhj7/nhj7.svg)](http://hits.dwyl.com/nhj7/nhj7) -->
 
 <!--
 **nhj7/nhj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
