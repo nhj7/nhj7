@@ -20,7 +20,7 @@
 
 <br/>
 
-MBTI 성격유형 [ENTP](https://namu.wiki/w/ENTP#s-2.1)와 [INTP](https://namu.wiki/w/INTP) 사이 그 어딘가...
+MBTI : [ENTP](https://namu.wiki/w/ENTP#s-2.1) + [INTP](https://namu.wiki/w/INTP)
 
 <!-- [![HitCount](http://hits.dwyl.com/nhj7/nhj7.svg)](http://hits.dwyl.com/nhj7/nhj7) -->
 
