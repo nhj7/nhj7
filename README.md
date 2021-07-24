@@ -7,7 +7,7 @@
 
 블로그 : https://nhj12311.tistory.com/category/dev
 
-가상자산정보 사이트 : https://cocomon.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + giflow
+가상자산정보 사이트 : https://cocomon.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + giflow + websocket
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
