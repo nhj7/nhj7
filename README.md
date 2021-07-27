@@ -7,7 +7,7 @@
 
 블로그 : https://nhj12311.tistory.com/category/dev
 
-가상자산정보 사이트 : https://cocomon.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + giflow + websocket
+가상자산정보 사이트 : https://cocomon.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + giflow + websocket + express + ModSecurity(WAF)
 
 주식 BNF 괴리율 : http://stock.iinfo.kr:7000 | [repo](https://github.com/nhj7/nysdaq) | nodejs + mysql + fastify
 
