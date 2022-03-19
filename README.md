@@ -9,7 +9,9 @@
 
 디지털자산정보 사이트 : https://cocomon.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + giflow + websocket + express + Nginx + ModSecurity(WAF)
 
-주식 BNF 괴리율 : http://stock.iinfo.kr:7000 | [repo](https://github.com/nhj7/nysdaq) | nodejs + mysql + fastify
+메타 용어 생성기 : http://cocomon.kr:7001 | python + flask + Komoran(nlp) + pandas dataframe
+
+주식 BNF 괴리율 : http://cocomon.kr:7000 | [repo](https://github.com/nhj7/nysdaq) | nodejs + mysql + fastify
 
 steemit 탐색기 : https://nhj7.github.io/steem.apps/ | [repo](https://github.com/nhj7.github.io) | vuejs 2
 
