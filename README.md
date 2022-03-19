@@ -7,7 +7,7 @@
 
 블로그 : https://nhj12311.tistory.com/category/dev
 
-디지털자산정보 사이트 : https://cocomon.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + giflow + websocket + express + Nginx + ModSecurity(WAF)
+코인 시세 정보 사이트 : https://cocomon.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + giflow + websocket + express + Nginx + ModSecurity(WAF)
 
 메타 용어 생성기 : http://cocomon.kr:7001 | python + flask + Komoran(nlp) + pandas dataframe
 
