@@ -22,7 +22,7 @@ steemit 탐색기 👬 : https://nhj7.github.io/steem.apps/ | [repo](https://git
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhj7&hide_border=true&layout=compact&hide=css,html,tsql,Logos,Shell,Batchfile,SCSS,Aspectj&langs_count=8" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhj7&hide_border=true&layout=compact&hide=css,html,tsql,Logos,Shell,Batchfile,SCSS,Aspectj,TypeScript&langs_count=8" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
