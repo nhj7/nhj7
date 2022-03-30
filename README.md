@@ -13,7 +13,7 @@
 
 주식 BNF 괴리율 📈 : http://cocomon.kr:7000 | [repo](https://github.com/nhj7/nysdaq) | nodejs + mysql + fastify
 
-steemit 탐색기 👬 : https://nhj7.github.io/steem.apps/ | [repo](https://github.com/nhj7.github.io) | vuejs 2
+steemit 탐색기 👬 : https://nhj7.github.io/steem.apps/ | [repo](https://github.com/nhj7/nhj7.github.io/tree/master/steem.apps) | vuejs 2
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
