@@ -5,7 +5,7 @@
 
 ### 개발자 ⌨️🤔
 
-블로그 : https://nhj12311.tistory.com/category/dev
+블로그 : https://n-log.netlify.app/
 
 코인 시세 정보 사이트 🪙 : https://cocomon.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + github action + websocket + Nginx + ModSecurity(WAF)
 
