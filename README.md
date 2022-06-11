@@ -7,7 +7,7 @@
 
 블로그 : https://n-log.netlify.app/
 
-코인 시세 정보 사이트 🪙 : https://cocomon.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + github action + websocket + Nginx + ModSecurity(WAF)
+디지털 자산 시세 정보 사이트 🪙 : https://cocomon.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + github action + websocket + Nginx + ModSecurity(WAF)
 
 메타 용어 생성기 🏭 : [http://cocomon.kr:7001](http://cocomon.kr:7001/?inp_txt=재직기간) | python + flask + Komoran(nlp) + pandas dataframe
 
