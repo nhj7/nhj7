@@ -7,11 +7,11 @@
 
 블로그 : https://n-log.netlify.app/
 
-디지털 자산 시세 정보 사이트 🪙 : https://cocomon.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + github action + websocket + Nginx + ModSecurity(WAF)
+디지털 자산 시세 정보 사이트 🪙 : https://cocomon.iinfo.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + github action + websocket + Nginx + ModSecurity(WAF)
 
-메타 용어 생성기 🏭 : [http://cocomon.kr:7001](http://cocomon.kr:7001/?inp_txt=재직기간) | python + flask + Komoran(nlp) + pandas dataframe
+메타 용어 생성기 🏭 : [http://meta.iinfo.kr:7001](http://cocomon.kr:7001/?inp_txt=재직기간) | python + flask + Komoran(nlp) + pandas dataframe
 
-주식 BNF 괴리율 📈 : http://cocomon.kr:7000 | [repo](https://github.com/nhj7/nysdaq) | nodejs + mysql + fastify
+주식 BNF 괴리율 📈 : http://stock.iinfo.kr:7000 | [repo](https://github.com/nhj7/nysdaq) | nodejs + mysql + fastify
 
 steemit 탐색기 👬 : https://nhj7.github.io/steem.apps/ | [repo](https://github.com/nhj7/nhj7.github.io/tree/master/steem.apps) | vuejs 2
 
