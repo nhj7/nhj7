@@ -15,6 +15,12 @@
 
 steemit 탐색기 👬 : https://nhj7.github.io/steem.apps/ | [repo](https://github.com/nhj7/nhj7.github.io/tree/master/steem.apps) | vuejs 2
 
+
+<p>  
+certbot -d *.iinfo.kr --manual --preferred-challenges dns certonly  
+</p>
+
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
