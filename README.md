@@ -5,7 +5,7 @@
 
 ### 개발자 ⌨️🤔
 
-블로그 : https://n-log.netlify.app/
+블로그 : https://log.iinfo.kr
 
 디지털 자산 시세 정보 사이트 🪙 : https://cocomon.iinfo.kr | [repo](https://github.com/nhj7/cocomon_fe) | nuxtjs + vuetify + redis + pm2 + github action + websocket + Nginx + ModSecurity(WAF)
 
